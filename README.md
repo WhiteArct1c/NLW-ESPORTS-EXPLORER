@@ -1,4 +1,4 @@
-# 🚀 NLW ESPORTS - Projeto de Landing Page
+# 🚀 NLW ESPORTS (Trilha Explorer) - Projeto de Landing Page
 <center><b> Concluído! <b/><center/>
   
 &nbsp;
